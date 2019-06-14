@@ -39,7 +39,7 @@ func main() {
 	ctx := context.Background()
 
 	first_sa := "first-service-account.json"
-	bucketName := "mystic-advice-218620-xtest"
+	bucketName := "replace-with-your-bucket-name"
 	objectName := "second-service-account.json"
 
 	// **********************************************************************
